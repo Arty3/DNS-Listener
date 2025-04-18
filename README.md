@@ -15,7 +15,7 @@ otherwise see the release section.
 Optionally, you can compile it from source:
 
 ```sh
-git clone https://github.com/DontCallMeLuca/DNS-Listener.git
+git clone https://github.com/Arty3/DNS-Listener.git
 cd DNS-Listener
 ```
 
